@@ -10,7 +10,7 @@ assignees: ''
 ## Steps to complete Usability Testing Prep: 
 - [ ] Product Manager: create this issue and fill in feature name in the title and other bolded information appropriately
 - [ ] Link to this issue once created in [#vfs-platform-support](https://dsva.slack.com/channels/vfs-platform-support) in Slack; tag @ AndreaHewitt @ Mandi Lipka
-- [ ] Schedule meeting using instruction below. Please note: all artifacts must be attached before scheduling. At least 2 business days lead time is required.
+- [ ] Schedule meeting using instructions below. Please note: all artifacts must be attached before scheduling. At least 2 business days lead time is required.
 
 - [ ] VSP <> **requesting team** review meeting completed
 - [ ] Practice area reviewers create sub-issues attached to this one with feedback for your team on *feature name*
