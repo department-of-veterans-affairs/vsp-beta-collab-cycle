@@ -29,10 +29,10 @@ assignees: ''
 ## Scheduling
 - Please reference the [VSP Collaboration Meetings Calendar](https://calendar.google.com/calendar/selfsched?sstoken=UUptdzJzeV9sbEZMfGRlZmF1bHR8NjYyMTQ2NGI5MTNmN2UzMTAzOTUzOGExY2Q0NDA4OWI) 
 - Select an available Appointment Slot that works for your team, **at least** 2 business days lead time is required.
-  - Be sure to change the title of your selected slot to Project Kickoff: Team Name - Project name
+  - Be sure to change the title of your selected slot to Design Intent Collaboration: Team Name - Project name
   - Add the link for this ticket to the description of the meeting
 - Once you have received the appointment confirmation in your email, edit the issue and add the appropriate team members. 
-  - If you are on the VSA contract please also add, Tze-chiu Lei, Jennifer Strickland, Mickin Sahni and Shawna Hein.
+  - If you are on the VSA contract please also add Jennifer Strickland and Shawna Hein.
 - Document selected date/time here:
 
 ## Additional Notes
