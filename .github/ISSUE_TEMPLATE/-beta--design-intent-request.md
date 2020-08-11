@@ -40,4 +40,4 @@ Design experts will provide:
 - A list of relevant design components and patterns (with URLs)
 - A list of existing applications or pages with similar execution or patterns with URLs in staging
 
-During this collaboration point, you will receive feedback from the following practice areas: design, accessibility
+During this collaboration point, you will receive feedback from the following practice areas: design, accessibility, content, information architecture (IA)
