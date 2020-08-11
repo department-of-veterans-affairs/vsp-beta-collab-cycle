@@ -31,7 +31,6 @@ assignees: ''
 - Select an available appointment slot that works for your team and is at least **2 business days** from now. Please note, all artifacts must be attached before scheduling.
 -- Be sure to change the title of your selected slot to Project Kickoff: **requesting team** - Project name
 -- Attach link to this ticket 
-- Write that time slot here (on this ticket).
 - Once you have received the appointment confirmation in your email, edit the issue and add the appropriate team members. 
 -- If you are on the VSA contract please also add, Tze-chiu Lei, Jennifer Strickland, Mickin Sahni and Shawna Hein.
 - Write you selected time slot here (on this ticket).
